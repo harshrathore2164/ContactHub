@@ -17,3 +17,4 @@ Create a .env file in the root directory and add the following variables:
 ```plaintext
 PORT=5001
 MONGODB_URI=<your_mongodb_connection_string>
+ACCESS_TOKEN_SECERT=<your access token>
